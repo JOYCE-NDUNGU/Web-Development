@@ -1,0 +1,15 @@
+*,
+::before
+::after{
+    box-sizing: border-box;
+}
+body{
+    background: transparent;
+    color: black;
+    margin: 0;
+    font-family: Arial, Helveticasans-serif;
+ }
+/* styling the navigation bar*/
+.nav-toggle { 
+
+ }
